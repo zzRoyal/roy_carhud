@@ -5,7 +5,7 @@ author "itsRoyal#7294"
 description "Hud by itsRoyal#7294"
 
 client_scripts { 
-    "main.lua",
+    "script.lua",
 }
 
 ui_page "ui/index.html"
